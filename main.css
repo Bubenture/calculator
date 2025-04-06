@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Silkscreen:wght@400;700&display=swap");
+:root {
+  --black: #222428;
+  --grey: #383b3f;
+  --screen: #141010;
+  --text: #55885d;
+  --radius: 4%;
+  --button: #515157;
+  --background: #2c2c2e;
+  --vh: 10vh;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Silkscreen", sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  
+}
+
+.calculator {
+  background-color: var(--grey);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: var(--radius);
+  box-shadow: 11px 1px 38px 27px rgba(20, 11, 18, 0.8);
+  margin: auto;
+  margin-top: 10vh;
+}
+.screen {
+  background-color: var(--screen);
+  border-radius: var(--radius);
+  border: 0;
+  width: 90%;
+  height: var(--vh);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  flex-direction: column;
+  color: var(--text);
+  margin-bottom: 5vh;
+  font-size: var(--vh);
+  margin: 5%;
+  padding: 1%;
+}
+.buttons {
+  width: 90%;
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 5vh;
+
+}
+.input {
+  background-color: var(--black);
+  border-radius: var(--radius);
+  border: 0;
+  box-shadow: 4px 0px 8px 0px rgba(43, 54, 46, 1);
+  cursor: pointer;
+  width: var(--vh);
+  align-self: stretch;
+  margin-bottom: 1vh;
+  font-size: var(--vh);
+}
+input:active {
+  background-color: var(--button);
+}
