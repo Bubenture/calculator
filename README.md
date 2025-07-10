@@ -1,6 +1,6 @@
 # https://bubenture.github.io/calculator
 
-![Просмотр портфеля](calculator.png)
+![calculator](calculator.png)
 
 Одностраничное веб-приложение
 #### Пользовательский интерфейс:
