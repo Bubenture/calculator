@@ -1,5 +1,16 @@
 # https://bubenture.github.io/calculator
 
+</br>
+<div>
+    <a href="README.md">
+        <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
+    </a>
+    <a href="README.en.md">
+        <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
+    </a>
+</div>
+</br>
+
 ![calculator](calculator.png)
 
 Одностраничное веб-приложение
