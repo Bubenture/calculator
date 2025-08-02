@@ -1,6 +1,5 @@
 # https://bubenture.github.io/calculator
 
-</br>
 <div>
     <a href="README.md">
         <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
