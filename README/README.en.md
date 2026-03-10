@@ -3,7 +3,7 @@
 # https://bubenture.github.io/calculator
 
 
-![calculator](calculator.png)
+![calculator](README/calculator.png)
 
 ### Single Page Web Application
 
